@@ -2,7 +2,7 @@
 
 {
 //Tyoe define korar somoi use semicolon , type defining 
-const user :  {
+const user : {
 
     //Example company ke fixed korte chao
     readonly company? : 'Programming Hero'; //literal type -> a value that you want to be fixed 
